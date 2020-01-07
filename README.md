@@ -1,4 +1,4 @@
-netjson-rest
+coredatastruct
 ======
 
 Core data structures to ease operation like BST, Linked List, Tree, Btree etc
@@ -13,11 +13,11 @@ For a manual installation
 ------------
 ```
 
-   mkdir netjson-rest
-   wget git@github.com:umeshahp/coredatastruct.git
-   cd CoreDataStructures
+   mkdir coredatastruct
+   wget https://github.com/umeshahp/coredatastruct.git
+   cd coredatastruct
    python setup.py install
-   c
+   
  
 ```
 

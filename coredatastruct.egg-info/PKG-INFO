@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: coredatastruct
+Version: 1.0.3
+Summary: Core data structures to ease operation like BST, Linked List, Tree, Btree etc
+Home-page: https://github.com/umeshahp/coredatastruct
+Author: Umesha HP
+Author-email: hpu89@yahoo.com
+License: MIT
+Description: coredatastruct
+                ======
+                
+                Core data structures to ease operation like BST, Linked List, Tree, Btree etc
+                
+                Installation
+                
+                
+                For a manual installation
+                
+                mkdir coredatastruct
+                wget https://github.com/umeshahp/coredatastruct.git
+                cd coredatastruct
+                python setup.py install
+        
+Keywords: Rest API for netjson config
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Internet
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown

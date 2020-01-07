@@ -1,8 +1,22 @@
 from setuptools import setup
 
 # reading long description from file
-with open('DESCRIPTION.txt') as file:
-    long_description = file.read()
+#with open('DESCRIPTION.txt') as file:
+long_description = '''coredatastruct
+        ======
+        
+        Core data structures to ease operation like BST, Linked List, Tree, Btree etc
+        
+        Installation
+        
+        
+        For a manual installation
+        
+        mkdir coredatastruct
+        wget https://github.com/umeshahp/coredatastruct.git
+        cd coredatastruct
+        python setup.py install
+'''#file.read()
 
 # specify requirements of your package here
 REQUIREMENTS = []
@@ -27,7 +41,7 @@ CLASSIFIERS = [
 
 # calling the setup function
 setup(name='coredatastruct',
-      version='1.0.0',
+      version='1.0.3',
       description='Core data structures to ease operation like BST, Linked List, Tree, Btree etc',
       #long_description=long_description,
       long_description=long_description,

@@ -1,0 +1,9 @@
+README.md
+setup.py
+coredatastruct/BST.py
+coredatastruct/__init__.py
+coredatastruct/datastruct.py
+coredatastruct.egg-info/PKG-INFO
+coredatastruct.egg-info/SOURCES.txt
+coredatastruct.egg-info/dependency_links.txt
+coredatastruct.egg-info/top_level.txt
